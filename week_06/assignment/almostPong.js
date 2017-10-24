@@ -120,7 +120,7 @@ function bounceCheck() {
   if(ballX > 760 && ballXV > 0) {
     sliderBounce();
   }
-  
+
   if(ballX < 0) {
     ballX = 400;
     p1 -= 1;
