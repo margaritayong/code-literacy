@@ -9,3 +9,5 @@
 <li>Let the vector lines detect the edges of your face.</li>
 <li>Smile! <b>photo will be taken.</b></li>
 </ol>
+
+![cameraSmile](https://github.com/margaritayong/code-literacy/blob/master/week_07/images/screenGrab.png)
