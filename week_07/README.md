@@ -11,3 +11,6 @@
 </ol>
 
 ![cameraSmile](https://github.com/margaritayong/code-literacy/blob/master/week_07/images/screenGrab.png)
+
+<h2>Approach</h2>
+<p>I used face tracking to detect a person's smile and take a photo as soon as it happens. The challenge was to capture every smile because sometimes it will go undetected or it would wrongfully take a photo triggered by motion instead of a smile.</p>
