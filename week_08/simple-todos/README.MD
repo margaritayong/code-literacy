@@ -17,7 +17,7 @@ Download files [here](https://github.com/margaritayong/code-literacy/raw/master/
 > The command `meteor test --driver-package practicalmeteor:mocha` did not work.
 
 3. Try running `meteor update coffeescript` before and then re-run the command above.
+<br>
 
-<p align="center">
-<img src="https://github.com/margaritayong/code-literacy/blob/master/week_08/simple-todos/images/simulator_iPhoneX.png" width="400" align="center"/>
-</p>
+<img src="https://github.com/margaritayong/code-literacy/blob/master/week_08/simple-todos/images/simulator_iPhoneX.png" width="350" align="center"/>
+
