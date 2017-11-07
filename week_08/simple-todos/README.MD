@@ -12,5 +12,8 @@
 2. In the file **_imports/ui/Task.jsx_**, line 45, replace: 
 `showPrivateButton: React.PropTypes.bool.isRequired,` for `showPrivateButton: PropTypes.bool.isRequired,`
 
+> The command `meteor test --driver-package practicalmeteor:mocha` did not work.
+
+3. Try running `meteor update coffeescript` before and then re-run the command above.
 
 Download files [here](https://github.com/margaritayong/code-literacy/raw/master/week_08/simple-todos/simple-todos.zip).
