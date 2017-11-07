@@ -1,5 +1,7 @@
 # Simple Todos App
 
+Download files [here](https://github.com/margaritayong/code-literacy/raw/master/week_08/simple-todos/simple-todos.zip).
+
 **Update: I was able to debug last week's assignment. See below:**
 
 > I wasn't able to launch the *ios simulator* on Terminal using `meteor run ios` from the tutorial. [(Step 6)](https://www.meteor.com/tutorials/react/running-on-mobile).
@@ -15,5 +17,3 @@
 > The command `meteor test --driver-package practicalmeteor:mocha` did not work.
 
 3. Try running `meteor update coffeescript` before and then re-run the command above.
-
-Download files [here](https://github.com/margaritayong/code-literacy/raw/master/week_08/simple-todos/simple-todos.zip).
