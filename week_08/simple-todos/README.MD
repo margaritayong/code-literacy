@@ -18,4 +18,6 @@ Download files [here](https://github.com/margaritayong/code-literacy/raw/master/
 
 3. Try running `meteor update coffeescript` before and then re-run the command above.
 
-![](https://github.com/margaritayong/code-literacy/blob/master/week_08/simple-todos/images/simulator_iPhoneX.png | width=100)
+<p align="center">
+<img src="https://github.com/margaritayong/code-literacy/blob/master/week_08/simple-todos/images/simulator_iPhoneX.png" width="400" align="center"/>
+</p>
