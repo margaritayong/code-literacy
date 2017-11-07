@@ -4,12 +4,13 @@
 
 > I wasn't able to launch the ios simulator on Terminal using `meteor run ios` from the tutorial. [(Step 6)](https://www.meteor.com/tutorials/react/running-on-mobile).
 
-This was fixed by updating XCode v9.1 from the App Store.
+1. This was fixed by updating XCode v9.1 from the App Store.
 
 
 > The Private Mode for publishing did not work. [(Step 10)](https://www.meteor.com/tutorials/react/publish-and-subscribe).
 
-In the file **_imports/ui/Task.jsx_**, line 45, replace: `showPrivateButton: React.PropTypes.bool.isRequired,` for: `showPrivateButton: PropTypes.bool.isRequired,`.
+2. In the file **_imports/ui/Task.jsx_**, line 45, replace: 
+`showPrivateButton: React.PropTypes.bool.isRequired,` for `showPrivateButton: PropTypes.bool.isRequired,`
 
 
 Download files [here](https://github.com/margaritayong/code-literacy/raw/master/week_08/simple-todos/simple-todos.zip).
