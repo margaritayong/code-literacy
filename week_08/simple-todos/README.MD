@@ -1,6 +1,6 @@
 # Simple Todos App
 
-**Update: I was able to debugged last week's assignment. See below:**
+**Update: I was able to debug last week's assignment. See below:**
 
 ### Note:
 
