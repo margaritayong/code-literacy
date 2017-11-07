@@ -2,7 +2,7 @@
 
 **Update: I was able to debug last week's assignment. See below:**
 
-> I wasn't able to ~`meteor run ios` from the tutorial[(step 6)](https://www.meteor.com/tutorials/react/running-on-mobile).
+> I wasn't able to `meteor run ios` from the tutorial[(step 6)](https://www.meteor.com/tutorials/react/running-on-mobile).
 
 This was fixed by updating XCode v9.1 from the App Store.
 
